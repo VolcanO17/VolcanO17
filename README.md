@@ -129,18 +129,6 @@ When I'm not coding, you'll find me leading hackathons, contributing to open-sou
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VolcanO17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6F00&text_color=FFFFFF&icon_color=FF6F00" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VolcanO17&theme=radical&hide_border=true&bg_color=0D1117&ring=FF6F00&fire=FF6F00&currStreakLabel=FF6F00" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VolcanO17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6F00&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
-
 ## 📞 Connect with Me
 
 <div align="center">
