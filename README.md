@@ -139,7 +139,7 @@ When I'm not coding, you'll find me leading hackathons, contributing to open-sou
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38db.png" width="200">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200" alt="Coding Animation">
 </div>
 
 ---
