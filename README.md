@@ -66,13 +66,13 @@ When I'm not coding, you'll find me leading hackathons, contributing to open-sou
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300">
 </div>
 
-### 🤖 [Invisi AI](https://github.com/VolcanO17/Invisi-AI) | AI Interview Assistant
+### 🤖 [Invisi AI](https://github.com/VolcanO17/InvisiAI) | AI Interview Assistant
 - **Tech Stack**: Python, AI/ML, Screen Share Integration
 - **Description**: An invisible AI assistant that enhances interview performance without disrupting screen sharing. Leverages advanced AI to provide real-time feedback, question suggestions, and behavioral analysis.
 - **Impact**: Revolutionizes remote interviews by making AI assistance seamless and undetectable.
 - **Stars**: ⭐⭐⭐ (Check it out!)
 
-### 📰 [News API](https://github.com/VolcanO17/News-API) | Comprehensive News Aggregation
+### 📰 [News API](https://github.com/VolcanO17/newsmaster-api) | Comprehensive News Aggregation
 - **Tech Stack**: Node.js, RESTful APIs, JavaScript
 - **Description**: A powerful API aggregating news from GeoX News, BBC News, and Newsmaster API. Features real-time updates, categorization, and global coverage.
 - **Impact**: Empowers developers and users with reliable, diverse news sources for apps and websites.
@@ -144,8 +144,8 @@ When I'm not coding, you'll find me leading hackathons, contributing to open-sou
 ## 📞 Connect with Me
 
 <div align="center">
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:praveen17.swamy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/praveen-n-swamy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/VolcanO17"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="tel:+91-9685724988"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" /></a>
 </div>
@@ -160,4 +160,3 @@ When I'm not coding, you'll find me leading hackathons, contributing to open-sou
   <h3>💻 "Code with Passion, Innovate with Purpose" 💻</h3>
   <p>Thanks for visiting! If my work resonates, let's collaborate on something groundbreaking. 🚀</p>
 </div>
-
